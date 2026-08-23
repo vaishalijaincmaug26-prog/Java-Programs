@@ -1,0 +1,7 @@
+public class Areaofrectangle{
+    public static void main (String args []){
+        int length = 5;
+        int breadth = 6;
+        System.out.println("Area of square =" + length*breadth);
+    }
+}
